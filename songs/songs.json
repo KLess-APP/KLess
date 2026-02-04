@@ -100,16 +100,6 @@
     "bpm": 162
   },
   {
-    "filename": "SPEED_OF_LIGHT",
-    "name": "At The Speed Of Light",
-    "bpm": 162
-  },
-  {
-    "filename": "SPEED",
-    "name": "At The Speed Of Light",
-    "bpm": 162
-  },
-  {
     "filename": "AVENGERS",
     "name": "Avengers (Epic Cover)",
     "bpm": 120
@@ -180,9 +170,9 @@
     "bpm": 88
   },
   {
-    "filename": "CAN_YOU_HEAR",
-    "name": "Can You Hear The Music",
-    "bpm": 80
+    "filename": "CAN_YOU_HEAR_THE_FUCKING_MUSIC",
+    "name": "Can You Hear The Fucking Music",
+    "bpm": 120
   },
   {
     "filename": "CAN_YOU_HEAR_EPIC",
@@ -490,12 +480,7 @@
     "bpm": 135
   },
   {
-    "filename": "GIORNOS_THEME",
-    "name": "Giorno's Theme",
-    "bpm": 135
-  },
-  {
-    "filename": "GOLDENHOUR",
+    "filename": "GOLDEN_HOUR",
     "name": "Golden Hour",
     "bpm": 94
   },
@@ -680,12 +665,17 @@
     "bpm": 104
   },
   {
+    "filename": "INVISIBLE",
+    "name": "Invisible",
+    "bpm": 120
+  },
+  {
     "filename": "IRISOUT",
     "name": "Iris Out (Chainsaw Man OP)",
     "bpm": 120
   },
   {
-    "filename": "ISABELLA",
+    "filename": "ISABELLAS_LULLABY",
     "name": "Isabella's Lullaby",
     "bpm": 112
   },
@@ -825,11 +815,6 @@
     "bpm": 178
   },
   {
-    "filename": "MAIN",
-    "name": "Main Theme",
-    "bpm": 120
-  },
-  {
     "filename": "MANGOMANGOMANGO",
     "name": "Mango Mango Mango",
     "bpm": 110
@@ -925,11 +910,6 @@
     "bpm": 51
   },
   {
-    "filename": "M3",
-    "name": "Moonlight Sonata - Third Movement",
-    "bpm": 163
-  },
-  {
     "filename": "MUFFIN",
     "name": "Muffin Time",
     "bpm": 110
@@ -1020,7 +1000,7 @@
     "bpm": 129
   },
   {
-    "filename": "RATDANCE",
+    "filename": "RAT_DANCE",
     "name": "Rat Dance",
     "bpm": 120
   },
@@ -1045,7 +1025,7 @@
     "bpm": 127
   },
   {
-    "filename": "RIVER_FLOWS",
+    "filename": "RIVER_FLOWS_IN_YOU",
     "name": "River Flows In You",
     "bpm": 137
   },
@@ -1078,11 +1058,6 @@
     "filename": "RUSH_E_HARD",
     "name": "Rush E (Epic Ver.)",
     "bpm": 20
-  },
-  {
-    "filename": "RUSHE2",
-    "name": "Rush E 2",
-    "bpm": 120
   },
   {
     "filename": "SANS",
@@ -1260,11 +1235,6 @@
     "bpm": 165
   },
   {
-    "filename": "TALENTLESS",
-    "name": "TALENTLESS Theme",
-    "bpm": 120
-  },
-  {
     "filename": "THATS_WHAT_I_WANT",
     "name": "That's What I Want",
     "bpm": 85
@@ -1293,6 +1263,11 @@
     "filename": "THE_GREAT_FAIRY",
     "name": "The Great Fairy Fountain",
     "bpm": 80
+  },
+  {
+    "filename": "THE_INTERSTELLAR_EXPERIENCE",
+    "name": "The Interstellar Experience",
+    "bpm": 120
   },
   {
     "filename": "THE_NIGHTS",
@@ -1425,6 +1400,11 @@
     "bpm": 74
   },
   {
+    "filename": "WHAT_THE_FUCKK",
+    "name": "What The Fuckk",
+    "bpm": 120
+  },
+  {
     "filename": "WHERE_WE",
     "name": "Where We Played",
     "bpm": 96
@@ -1455,6 +1435,11 @@
     "bpm": 80
   },
   {
+    "filename": "XENO",
+    "name": "Xeno",
+    "bpm": 120
+  },
+  {
     "filename": "XO_TOUR",
     "name": "XO Tour Llif3",
     "bpm": 142
@@ -1466,11 +1451,6 @@
   },
   {
     "filename": "YOUNG_GIRL_A_2",
-    "name": "Young Girl A (Epic Ver.)",
-    "bpm": 130
-  },
-  {
-    "filename": "YOUGAGIRL2",
     "name": "Young Girl A (Epic Ver.)",
     "bpm": 130
   },
