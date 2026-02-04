@@ -1,0 +1,13 @@
+[
+  {
+    "filename": "EXAMPLE_SONG_1",
+    "name": "Example Song 1",
+    "bpm": 120
+  },
+  {
+    "filename": "EXAMPLE_SONG_2",
+    "name": "Example Song 2",
+    "bpm": 95
+  }
+]
+
